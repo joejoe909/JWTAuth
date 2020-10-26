@@ -14,8 +14,8 @@ setup correctly.
 DB_CONNECT = theServerURL.
 TOKEN_SECRET = aRandomSetOfCharacters
 
-If you go through the tutorial DevEd explains is well
+If you go through the tutorial DevEd explains it well
 
-My file, specifically, validation.js will ease some possible pitfalls other users have encountered Dev Ed didnt encounter. Note that this pitfall has been encoutnered by other users and many in the comments help with this also.
+My file, specifically, validation.js will ease some possible pitfalls other users have encountered in this tutorial. Note that this pitfall has been encoutnered by other users and many in the comments help with this also. If you look at this file it should get you past this quickly.
 
-I hope this helps you in someway but much props to Dev Ed as I haven learned quite a bit from his tutorials. 
+I hope this helps you in someway but much props to DevEd as I haven learned quite a bit from his tutorials. 
