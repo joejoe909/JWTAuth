@@ -5,7 +5,7 @@ This is the Jason Web Token Authorization tutorial avaialble from DevEd https://
 
 This is a pretty good tutorial for learning Node, JWT and Express Server.
 
-to test it use an application such as postman -> https://www.postman.com/product/api-client/
+To test it use an application such as postman -> https://www.postman.com/product/api-client/
 
 
 note you will need to setup a .env file and have the following two items 
